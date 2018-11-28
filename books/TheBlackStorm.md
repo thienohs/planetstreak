@@ -6,25 +6,27 @@
 
 **`Donus`** Yes, it’s on your screen:  
 
-    [On Mary’s computer screen]
+```
+[On Mary’s computer screen]
 
-    [Planet composition report]
-    
-    [Codename: The black storm]
-    
-    [Oxygen: 0%]
-    
-    [Hydrogen: 97.3%]
-    
-    [Helium:1.75%]
-    
-    [Methane:0.35%]
-    
-    [Class: Planet]
-    
-    [Type: Gas giant]
+[Planet composition report]
 
-    [...]
+[Codename: The black storm]
+
+[Oxygen: 0%]
+
+[Hydrogen: 97.3%]
+
+[Helium:1.75%]
+
+[Methane:0.35%]
+
+[Class: Planet]
+
+[Type: Gas giant]
+
+[...]
+```
 
 **`Mary`** Sam, let’s get this done and call it a day, shall we?
 
