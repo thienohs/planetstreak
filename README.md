@@ -15,5 +15,8 @@ Planet Streak is an open source novel for people who loves space and universe. C
 **`Sam`** for character name in conversation
 
 ```
-Technical information or message
+Technical information
 ```
+
+> Quote or message from a third party
+

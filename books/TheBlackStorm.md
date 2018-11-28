@@ -107,7 +107,7 @@ The elevator detached and move in empty space towards her cabin at the bottom de
 
 Mary jumps on her bed and her room is illuminated with small little star particle flying all over. She fell asleep in a mere 5 seconds.
 
-    [Back in the operating dome]
+Back in the operating dome
 
 **`Jimin`** Do you think our operating officer is sleeping a bit too much? She can take a nap almost anywhere.
 
